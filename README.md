@@ -16,4 +16,4 @@ This repo contains the code of training part and testing part, I use some tricks
 
 As a kaggle beginner, I learned a lot from this competition, such as some useful tricks for better performance, we should put all config parameters in a file(usually called `config.py`) and so on...
 
-Hope I can get better rankings and become a `Kaggle Expert`.
+Hope I can get better rankings next time and become a `Kaggle Expert`.
